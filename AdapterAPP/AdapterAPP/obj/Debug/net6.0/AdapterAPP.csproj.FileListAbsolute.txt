@@ -1,0 +1,15 @@
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\bin\Debug\net6.0\AdapterAPP.exe
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\bin\Debug\net6.0\AdapterAPP.deps.json
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\bin\Debug\net6.0\AdapterAPP.runtimeconfig.json
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\bin\Debug\net6.0\AdapterAPP.dll
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\bin\Debug\net6.0\AdapterAPP.pdb
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\AdapterAPP.csproj.AssemblyReference.cache
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\AdapterAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\AdapterAPP.AssemblyInfoInputs.cache
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\AdapterAPP.AssemblyInfo.cs
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\AdapterAPP.csproj.CoreCompileInputs.cache
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\AdapterAPP.dll
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\refint\AdapterAPP.dll
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\AdapterAPP.pdb
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\AdapterAPP.genruntimeconfig.cache
+C:\Users\germa\Downloads\ProjetoDesignPatterns\AdapterAPP\AdapterAPP\obj\Debug\net6.0\ref\AdapterAPP.dll
